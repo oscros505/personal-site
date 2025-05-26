@@ -1,0 +1,58 @@
+body {
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+svg {
+  background: #d2d0a0;
+  border: none;
+}
+img {
+  height: 600px;
+  width: 100%;
+}
+#hero {
+  background: #d2d0a0;
+  font-weight: 200px;
+  color: #f9f6e6;
+  text-shadow: 6px 6px #261c1a, 5.75px 5.75px #261c1a, 5.5px 5.5px #261c1a,
+    5.25px 5.25px #261c1a, 5px 5px #261c1a, 4.75px 4.75px #261c1a,
+    4.5px 4.5px #261c1a, 4.25px 4.25px #261c1a, 4px 4px #261c1a,
+    3.75px 3.75px #261c1a, 3.5px 3.5px #261c1a, 3.25px 3.25px #261c1a,
+    3px 3px #261c1a, 2.75px 2.75px #261c1a, 2.5px 2.5px #261c1a,
+    2.25px 2.25px #261c1a, 2px 2px #261c1a, 1.75px 1.75px #261c1a,
+    1.5px 1.5px #261c1a, 1.25px 1.25px #261c1a, 1px 1px #261c1a,
+    0.75px 0.75px #261c1a, 0.5px 0.5px #261c1a, 0.25px 0.25px #261c1a;
+}
+.name {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+#about {
+  background: #f9f6e6;
+}
+#experience {
+  display: flex;
+  justify-content: space-around;
+  background: #f9f6e6;
+}
+#contact {
+  background: #d2d0a0;
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  color: #261c1a;
+  font-weight: 50px;
+}
+footer {
+  display: flex;
+  justify-content: baseline;
+}
+
+/*#261c1a and  #f9f6e6 */
